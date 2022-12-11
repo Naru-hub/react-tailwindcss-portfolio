@@ -25,19 +25,19 @@ function App() {
       <section className="text-gray-700" id="home">
         <div className="flex container mx-auto py-20 px-5 flex-col md:flex-row items-center ">
           <div className="md:w-1/2 flex-grow mb-14 lg:pr-24 md:pr-16">
-            <h1>
+            <h1 className="text-3xl sm:text-6xl text-gray-800 font-medium mb-4">
               Hi!
               <br />
               I'm Nona
               <br />
               Web Developer
             </h1>
-            <p>
+            <p className="mb-8 leading-relaxed">
               Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos quam
               nulla quasi tenetur, animi, aliquid, iure natus veritatis tempora
               exercitationem sunt!
             </p>
-            <button>Contact Me</button>
+            <button className="text-white bg-green-500 py-2">Contact</button>
           </div>
           <div className="md:w-1/2 lg:max-w-lg w-5/6">
             <img src="./img/icon.jpeg" alt="" />
