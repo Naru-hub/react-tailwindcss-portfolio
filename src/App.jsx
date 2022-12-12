@@ -46,6 +46,35 @@ function App() {
           </div>
         </div>
       </section>
+      <section className="text-gray-700 border-t border-gray-200">
+        <div className="container px-5 py-24 mx-auto">
+          <div className="text-center mb-20">
+            <h1 className="text-2xl sm:text-3xl font-medium mb-2 text-gray-900">
+              About Me
+            </h1>
+            <p className="pb-10">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis sunt
+              incidunt accusantium veniam qui minus cum labore voluptatibus!
+              Temporibus, impedit.
+            </p>
+            <p>
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eius,
+              atque distinctio delectus quod autem optio nisi architecto et id
+              consequatur deleniti in at ipsum est laboriosam sed cupiditate
+              provident, quis molestiae explicabo? Ipsam porro labore nam! Eius,
+              eligendi possimus veritatis reprehenderit officiis dignissimos
+              labore quam nulla quisquam quos quia alias accusantium cupiditate
+              eum provident enim praesentium ratione explicabo. Id rerum a rem
+              nulla corporis numquam est officiis, praesentium necessitatibus
+              totam, sapiente iusto doloremque optio? Iusto nam, consequatur
+              veritatis illo architecto, veniam recusandae repudiandae
+              voluptates tempore quidem possimus quam. Debitis quas ratione
+              voluptates dolorem cumque ad officia voluptatum a assumenda est!
+            </p>
+          </div>
+          <div></div>
+        </div>
+      </section>
     </>
   );
 }
